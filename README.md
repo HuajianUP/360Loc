@@ -20,7 +20,7 @@ git clone https://github.com/HuajianUP/360Loc.git
 pip install json tqdm yaml numpy opencv-python requests
 ```
 
-You can download the 360Loc dataset [link](https://hkustconnect-my.sharepoint.com/:f:/g/personal/cliudg_connect_ust_hk/EqrMZf3qRGBEqQthBUuYKEoBc8BGCG_Gr9OPZPHxlhemGg?e=ZqmV9M) and unzip them in the folder `./360Loc`. 
+You can download the 360Loc dataset [link](https://hkustvgd.com/statics/360loc/) and unzip them in the folder `./360Loc`. 
 ```
 360Loc
 ├── atrium
